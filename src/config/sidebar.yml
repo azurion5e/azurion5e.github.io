@@ -1,0 +1,10 @@
+# Sidebar navigation
+
+- label: 'Общая информация'
+  link: '/'
+- label: Расы
+  items:
+    - label: 'Расы Азурии'
+      link: '/races/main'
+    - label: "Изменения в расах"
+      link: '/races/race-changes'
