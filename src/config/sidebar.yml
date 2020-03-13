@@ -2,9 +2,11 @@
 
 - label: 'Общая информация'
   link: '/'
-- label: Расы
+- label: 'Королевства Триумвирата'
+  link: '/locations/triumvirat'
+- label: 'Расы'
   items:
-    - label: 'Расы Азурии'
+    - label: 'Расы Азуриона'
       link: '/races/main'
-    - label: "Изменения в расах"
+    - label: 'Изменения в расах'
       link: '/races/race-changes'
