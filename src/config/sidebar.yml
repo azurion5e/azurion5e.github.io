@@ -10,3 +10,7 @@
       link: '/races/main'
     - label: 'Изменения в расах'
       link: '/races/race-changes'
+- label: 'Дополнительные классы'
+  items:
+    - label: 'Плут / Божественный вестник'
+      link: /classes/divine-rogue
