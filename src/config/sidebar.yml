@@ -12,5 +12,7 @@
       link: '/races/race-changes'
 - label: 'Дополнительные классы'
   items:
+    - label: 'Друид / Круг Спор'
+      link: /classes/circle-spores-druid
     - label: 'Плут / Божественный вестник'
       link: /classes/divine-rogue
