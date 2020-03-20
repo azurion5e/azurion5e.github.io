@@ -13,6 +13,8 @@
 - label: 'Дополнительные классы'
   items:
     - label: 'Друид / Круг Спор'
-      link: /classes/circle-spores-druid
+      link: /classes/druid.circle-spores
     - label: 'Плут / Божественный вестник'
-      link: /classes/divine-rogue
+      link: /classes/rogue.divine
+    - label: 'Колдун / Бессмертный'
+      link: /classes/warlock.undying
