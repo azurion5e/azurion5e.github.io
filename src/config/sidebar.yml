@@ -14,6 +14,10 @@
   items:
     - label: 'Друид / Круг Спор'
       link: /classes/druid.circle-spores
+    - label: 'Жрец / Домен смерти'
+      link: /classes/cleric.death
+    - label: 'Паладин / Клятвопреступник'
+      link: /classes/paladin.oathbreaker
     - label: 'Плут / Божественный вестник'
       link: /classes/rogue.divine
     - label: 'Колдун / Бессмертный'
