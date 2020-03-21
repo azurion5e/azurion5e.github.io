@@ -26,3 +26,9 @@
       link: /classes/warlock.undying
     - label: 'Магия вуду'
       link: /classes/woodoo
+- label: 'Предыстории'
+  items:
+    - label: 'Воскрешённый'
+      link: /backstories/resurrected
+    - label: 'Еретик'
+      link: /backstories/heretic
