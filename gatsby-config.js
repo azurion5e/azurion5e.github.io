@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    prefix: '/azurion',
+    pathPrefix: '/azurion',
     siteTitle: `@rocketseat/gatsby-theme-docs`,
     defaultTitle: `@rocketseat/gatsby-theme-docs`,
     siteTitleShort: `gatsby-theme-docs`,
@@ -25,10 +25,10 @@ module.exports = {
       options: {
         name: `Rocketseat Gatsby Themes`,
         short_name: `RS Gatsby Themes`,
-        start_url: `/`,
+        start_url: `/azurion`,
         background_color: `#ffffff`,
         display: `standalone`,
-        icon: `static/favicon.png`,
+        //icon: `./static/favicon.png`,
       },
     },
     `gatsby-plugin-sitemap`,
