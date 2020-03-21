@@ -1,34 +1,34 @@
 # Sidebar navigation
 
 - label: 'Общая информация'
-  link: '/'
+  link: '/azurion'
 - label: 'Королевства Триумвирата'
-  link: '/locations/triumvirat'
+  link: '/azurion/locations/triumvirat'
 - label: 'Расы'
   items:
     - label: 'Расы Азуриона'
-      link: '/races/main'
+      link: '/azurion/races/main'
     - label: 'Дженази'
-      link: '/races/genasi'
+      link: '/azurion/races/genasi'
 - label: 'Дополнительные классы'
   items:
     - label: 'Воин / Рунический рыцарь'
-      link: /classes/fighter.rune-knight
+      link: /azurion/classes/fighter.rune-knight
     - label: 'Друид / Круг Спор'
-      link: /classes/druid.circle-spores
+      link: /azurion/classes/druid.circle-spores
     - label: 'Жрец / Домен смерти'
-      link: /classes/cleric.death
+      link: /azurion/classes/cleric.death
     - label: 'Паладин / Клятвопреступник'
-      link: /classes/paladin.oathbreaker
+      link: /azurion/classes/paladin.oathbreaker
     - label: 'Плут / Божественный вестник'
-      link: /classes/rogue.divine
+      link: /azurion/classes/rogue.divine
     - label: 'Колдун / Бессмертный'
-      link: /classes/warlock.undying
+      link: /azurion/classes/warlock.undying
     - label: 'Магия вуду'
-      link: /classes/woodoo
+      link: /azurion/classes/woodoo
 - label: 'Предыстории'
   items:
     - label: 'Воскрешённый'
-      link: /backstories/resurrected
+      link: /azurion/backstories/resurrected
     - label: 'Еретик'
-      link: /backstories/heretic
+      link: /azurion/backstories/heretic
