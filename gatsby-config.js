@@ -1,5 +1,6 @@
 module.exports = {
   siteMetadata: {
+    prefix: '/azurion',
     siteTitle: `@rocketseat/gatsby-theme-docs`,
     defaultTitle: `@rocketseat/gatsby-theme-docs`,
     siteTitleShort: `gatsby-theme-docs`,
