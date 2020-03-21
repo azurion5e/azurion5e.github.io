@@ -8,10 +8,12 @@
   items:
     - label: 'Расы Азуриона'
       link: '/races/main'
-    - label: 'Изменения в расах'
-      link: '/races/race-changes'
+    - label: 'Дженази'
+      link: '/races/genasi'
 - label: 'Дополнительные классы'
   items:
+    - label: 'Воин / Рунический рыцарь'
+      link: /classes/fighter.rune-knight
     - label: 'Друид / Круг Спор'
       link: /classes/druid.circle-spores
     - label: 'Жрец / Домен смерти'
