@@ -8,12 +8,16 @@
   items:
     - label: 'Расы Азуриона'
       link: '/azurion/races/main'
+    - label: 'Грунг'
+      link: '/azurion/races/grung'
     - label: 'Дженази'
       link: '/azurion/races/genasi'
 - label: 'Дополнительные классы'
   items:
     - label: 'Воин / Рунический рыцарь'
       link: /azurion/classes/fighter.rune-knight
+    - label: 'Волшебник / Песнь клинка'
+      link: /azurion/classes/wizard.bladesinger
     - label: 'Друид / Круг Спор'
       link: /azurion/classes/druid.circle-spores
     - label: 'Жрец / Домен смерти'
@@ -24,6 +28,8 @@
       link: /azurion/classes/rogue.divine
     - label: 'Колдун / Бессмертный'
       link: /azurion/classes/warlock.undying
+    - label: 'Колдун / Создание Глубин'
+      link: /azurion/classes/warlock.lurker
     - label: 'Магия вуду'
       link: /azurion/classes/woodoo
 - label: 'Предыстории'
