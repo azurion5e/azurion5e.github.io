@@ -34,6 +34,8 @@
       link: /azurion/classes/warlock.undying
     - label: 'Колдун / Создание Глубин'
       link: /azurion/classes/warlock.lurker
+    - label: 'Монах / Путь Милосердия'
+      link: /azurion/classes/monk.way-of-mercy
     - label: 'Магия вуду'
       link: /azurion/classes/woodoo
 - label: 'Предыстории'
