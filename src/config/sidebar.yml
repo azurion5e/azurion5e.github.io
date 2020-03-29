@@ -12,6 +12,10 @@
       link: '/azurion/races/grung'
     - label: 'Дженази'
       link: '/azurion/races/genasi'
+    - label: 'Оборотень'
+      link: '/azurion/races/shifter'
+    - label: 'Перевёртыш'
+      link: '/azurion/races/changeling'
 - label: 'Дополнительные классы'
   items:
     - label: 'Воин / Рунический рыцарь'
