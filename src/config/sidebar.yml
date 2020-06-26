@@ -2,8 +2,16 @@
 
 - label: 'Общая информация'
   link: '/azurion'
-- label: 'Королевства Триумвирата'
-  link: '/azurion/locations/triumvirat'
+- label: 'Локации'
+  items:
+    - label: 'Королевства Триумвирата'
+      link: '/azurion/locations/triumvirat'
+    - label: 'Вольный порт Илсар'
+      link: '/azurion/locations/ilsar'
+    - label: 'Государство Гвендалар'
+      link: '/azurion/locations/gwendalar'
+    - label: 'Архипелаг Огненные Клыки'
+      link: '/azurion/locations/fire-fangs'
 - label: 'Расы'
   items:
     - label: 'Расы Азуриона'
@@ -14,6 +22,8 @@
       link: '/azurion/races/genasi'
     - label: 'Оборотень'
       link: '/azurion/races/shifter'
+    - label: 'Кобольд'
+      link: '/azurion/races/kobold'
     - label: 'Многоликий'
       link: '/azurion/races/changeling'
 - label: 'Дополнительные классы'
