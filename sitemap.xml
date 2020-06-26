@@ -22,4 +22,5 @@
 <url> <loc>https://rocketdocs.netlify.com/locations/fire-fangs/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://rocketdocs.netlify.com/races/genasi/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://rocketdocs.netlify.com/races/shifter/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://rocketdocs.netlify.com/locations/gwendalar/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
