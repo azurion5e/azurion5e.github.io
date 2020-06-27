@@ -16,8 +16,10 @@
   items:
     - label: 'Расы Азуриона'
       link: '/azurion/races/main'
-    - label: 'Грунг'
+    - label: '[ОК] Грунг'
       link: '/azurion/races/grung'
+    - label: '[ОК] Себекканин'
+      link: '/azurion/races/sebekkan'
     - label: 'Дженази'
       link: '/azurion/races/genasi'
     - label: 'Оборотень'
