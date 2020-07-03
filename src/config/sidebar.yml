@@ -44,6 +44,8 @@
       link: /azurion/classes/rogue.divine
     - label: 'Колдун / Бессмертный'
       link: /azurion/classes/warlock.undying
+    - label: 'Колдун / Джинн'
+      link: /azurion/classes/warlock.genie
     - label: 'Колдун / Создание Глубин'
       link: /azurion/classes/warlock.lurker
     - label: 'Монах / Путь Милосердия'
