@@ -1,7 +1,3 @@
----
-title: Королевства Триумвирата
-featuredImage: ../../../static/full_map.jpg
----
+# Королевства Триумвирата
 
-
-<img style="height: 700px; width: 90%" src="https://github.com/i-madness/azurion/blob/master/img/triumvirat.map.jpg?raw=true"/>
+<img style="height: 650px; width: 90%" src="https://i-madness.github.io/azurion/_media/triumvirat.map.jpg"/>
