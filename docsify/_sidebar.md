@@ -1,0 +1,9 @@
+- [Информация о сеттинге](/)
+- **Локации**
+  - [Королевства Триумвирата](/locations/triumvirat)
+  - [Вольный порт Илсар](/locations/ilsar)
+  - [Государство Гвендалар](/locations/gwendalar)
+  - [Архипелаг Огненные Клыки](/locations/fire-fangs)
+- **Дополнительные предыстории**
+  - [Воскрешённый](/backstories/resurrected)
+  - [Еретик](/backstories/heretic)
