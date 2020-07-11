@@ -2,7 +2,7 @@
 _Источник: Eberron: Rising from the Last War_
 
 <p style="text-align: center">
-  <img style="height: 300px" src="https://github.com/i-madness/azurion/blob/master/img/changeling.race.png?raw=true"/>
+  <img src="./_media/races/changeling.race.png" style="height: 300px" />
 </p>
 
 Многоликие меняют свой облик усилием мысли. Многие используют этот дар как форму художественного и

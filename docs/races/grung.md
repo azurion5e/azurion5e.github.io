@@ -1,11 +1,9 @@
----
-title: Грунг
----
+# Грунг
 _Источники: "Volo’s guide to monsters","One grung above"_  
 _Эта раса используется **только** в рамках кампании Острова Кайнау (архипелаг Огненные Клыки)._
 
 <p style="text-align: center">
-  <img style="height: 300px" src="https://github.com/i-madness/azurion/blob/master/img/grung.race.png?raw=true"/>
+  <img style="height: 300px" src="./_media/races/grung.race.png"/>
 </p>
 
 Грунги – это агрессивные жабоподобные гуманоиды, которых можно встретиться в дождливых лесах и тропических джунглях. Они яростно защищают
