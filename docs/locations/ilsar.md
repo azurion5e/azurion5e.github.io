@@ -1,6 +1,6 @@
 # Илсар, вольный порт
 <p style="text-align: center">
-  <img style="height: 400px" src="https://i.ibb.co/GPMJWwy/image.png"/>
+  <img style="height: 400px" src="./_media/locations/ilsar.map.png"/>
 </p>
 
 Илсар - вольный порт континента Тирленар. Здесь скапливаются все те, кто бежит от закона в различных странах.

@@ -1,21 +1,28 @@
 - [Информация о сеттинге](/)
-- **Локации**
+- **История**
+  - [Хроника мира](/lore/timeline)
+  - [Боги Азуриона](/lore/dieties)
+- **Локации и государства**
   - [Королевства Триумвирата](/locations/triumvirat)
   - [Вольный порт Илсар](/locations/ilsar)
-  - [Государство Гвендалар](/locations/gwendalar)
+  - [Гвендалар](/locations/gwendalar)
   - [Архипелаг Огненные Клыки](/locations/fire-fangs)
 - **Расы**
   - [Расы Азуриона](/races/main)
   - [[ОК] Грунг](/races/grung)
-    <!-- - label: '[ОК] Себекканин'
-      link: '/azurion/races/sebekkan'
-    - label: 'Дженази'
-      link: '/azurion/races/genasi'
-    - label: 'Оборотень'
-      link: '/azurion/races/shifter'
-    - label: 'Кобольд'
-      link: '/azurion/races/kobold' -->
+  - [[ОК] Себекканин / Луркин](/races/sebekkan)
+  - [[rewised] Дженази](/races/genasi)
+  - [[rewised] Кобольд](/races/kobold)
+  - [Оборотень (Шифтер)](/races/shifter)
   - [Многоликий](/races/changeling)
-- **Дополнительные предыстории**
-  - [Воскрешённый](/backstories/resurrected)
-  - [Еретик](/backstories/heretic)
+- **Классы**
+  - [Воин](/classes/fighter)
+  - [Волшебник](/classes/wizard)
+  - [Друид](/classes/druid)
+  - [Жрец](/classes/cleric)
+  - [Паладин](/classes/paladin)
+  - [Плут](/classes/rogue)
+  - [Колдун](/classes/warlock)
+  - [Монах](/classes/monk)
+- **Homebrew**
+  - [Предыстории](/homebrew/backstories)

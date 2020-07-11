@@ -1,6 +1,5 @@
 # Многоликий / Перевёртыш (Changeling)
-_Источник: Eberron: Rising from the Last War_
-
+> Источник: Eberron: Rising from the Last War
 <p style="text-align: center">
   <img src="./_media/races/changeling.race.png" style="height: 300px" />
 </p>
