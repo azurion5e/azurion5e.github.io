@@ -8,8 +8,8 @@
   - [Гвендалар](/locations/gwendalar)
   - [Архипелаг Огненные Клыки](/locations/fire-fangs)
   - [Диархия Тиабер](/locations/tiaber-diarchy)
-- **Расы**
-  - [Расы Азуриона](/races/main)
+- **Дополнительные расы**
+  - [Расы Азуриона](/races/_main)
   - [[ОК] Грунг](/races/grung)
   - [[ОК] Себекканин / Луркин](/races/sebekkan)
   - [[rewised] Дженази](/races/genasi)
