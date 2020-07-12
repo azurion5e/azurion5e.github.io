@@ -7,6 +7,7 @@
   - [Вольный порт Илсар](/locations/ilsar)
   - [Гвендалар](/locations/gwendalar)
   - [Архипелаг Огненные Клыки](/locations/fire-fangs)
+  - [Диархия Тиабер](/locations/tiaber-diarchy)
 - **Расы**
   - [Расы Азуриона](/races/main)
   - [[ОК] Грунг](/races/grung)
@@ -15,7 +16,7 @@
   - [[rewised] Кобольд](/races/kobold)
   - [Оборотень (Шифтер)](/races/shifter)
   - [Многоликий](/races/changeling)
-- **Классы**
+- **Дополнительные подклассы**
   - [Воин](/classes/fighter)
   - [Волшебник](/classes/wizard)
   - [Друид](/classes/druid)
