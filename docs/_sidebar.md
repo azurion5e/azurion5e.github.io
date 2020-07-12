@@ -27,3 +27,4 @@
   - [Монах](/classes/monk)
 - **Homebrew**
   - [Предыстории](/homebrew/backstories)
+  - [Магия вуду](/homebrew/woodoo)
