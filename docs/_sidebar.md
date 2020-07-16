@@ -28,3 +28,4 @@
 - **Homebrew**
   - [Предыстории](/homebrew/backstories)
   - [Магия вуду](/homebrew/woodoo)
+  - [Черты](/homebrew/feats)
