@@ -3,11 +3,11 @@
   - [Хроника мира](/lore/timeline)
   - [Боги Азуриона](/lore/dieties)
 - **Локации и государства**
-  - [Королевства Триумвирата](/locations/triumvirat)
+  - [Архипелаг Огненные Клыки](/locations/fire-fangs)
   - [Вольный порт Илсар](/locations/ilsar)
   - [Гвендалар](/locations/gwendalar)
-  - [Архипелаг Огненные Клыки](/locations/fire-fangs)
   - [Диархия Тиабер](/locations/tiaber-diarchy)
+  - [Королевства Триумвирата](/locations/triumvirat)
 - **Дополнительные расы**
   - [Расы Азуриона](/races/_main)
   - [[ОК] Грунг](/races/grung)
