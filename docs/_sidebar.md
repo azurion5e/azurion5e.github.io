@@ -15,6 +15,7 @@
   - [[rewised] Дженази](/races/genasi)
   - [[rewised] Кобольд](/races/kobold)
   - [Оборотень (Шифтер)](/races/shifter)
+  - [Сатир](/races/satyr)
   - [Многоликий](/races/changeling)
 - **Дополнительные подклассы**
   - [Воин](/classes/fighter)
