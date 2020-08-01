@@ -19,7 +19,7 @@ _Источник: Xanathar's Lost Notes to Everything Else (Homebrew допол
 Когда вы достигаете 3-го уровея вы получаете возможность использовать заклинания из списка заклинаний жреца.  
 
 #### Известные заклинания божественного вестника
-<img src="https://github.com/i-madness/azurion/blob/master/img/rogue.divine.spells.png?raw=true" />
+<img src="./_media/classes/rogue.divine.spells.png" />
 
 **Заговоры.** 
 Вы изучаете три заговора по своему выбору из списка заговоров жреца. Вы изучаете новый заговор жреца на 10-м уровне.
