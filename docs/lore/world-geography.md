@@ -3,7 +3,7 @@
   Примечание ДМ: белые пятна на карте - это не баг, а фича. Текущие проблемы карты: надо выровнять названия стран, а также нарисовать острова (пока что это проблема в такой наклонённой версии).
 
 <p style="text-align: center">
-  <img style="height: 800px" src="./_media/locations/world.map.png"/>
+  <img style="height: 620px" src="./_media/locations/world.map.png"/>
 </p>
 
 ## Континент Тирленар
