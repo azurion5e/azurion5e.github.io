@@ -19,6 +19,7 @@
   - [Сатир](/races/satyr)
   - [Многоликий](/races/changeling)
 - **Дополнительные подклассы**
+  - [Бард](/classes/bard)
   - [Варвар](/classes/barbarian)
   - [Воин](/classes/fighter)
   - [Волшебник](/classes/wizard)
