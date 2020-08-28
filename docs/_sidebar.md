@@ -8,6 +8,7 @@
   - [Вольный порт Илсар](/locations/ilsar)
   - [Гвендалар](/locations/gwendalar)
   - [Диархия Тиабер](/locations/tiaber-diarchy)
+  - [Княжество Кестамов](/locations/kestamov)
   - [Королевства Триумвирата](/locations/triumvirat)
 - **Дополнительные расы**
   - [Расы Азуриона](/races/_main)
