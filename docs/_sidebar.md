@@ -7,9 +7,9 @@
   - [Архипелаг Огненные Клыки](/locations/fire-fangs)
   - [Вольный порт Илсар](/locations/ilsar)
   - [Гвендалар](/locations/gwendalar)
+  - [Графство Ерсалум](/locations/ersalum)
   - [Диархия Тиабер](/locations/tiaber-diarchy)
   - [Княжество Кестамов](/locations/kestamov)
-  - [Графство Ерсалум](/locations/kestamov)
   - [Королевства Триумвирата](/locations/triumvirat)
 - **Дополнительные расы**
   - [Расы Азуриона](/races/_main)
