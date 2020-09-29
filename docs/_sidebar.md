@@ -2,7 +2,7 @@
 - **Лор мира**
   - [География мира](/lore/world-geography)
   - [Хронология](/lore/timeline)
-  - [Боги и высшие силы](https://www.notion.so/31db1805e92c43b59b41a585789b6058?v=00b6c7e92f774314ad85c5442a0f769b)
+  - [Боги и высшие силы](/lore/deities)
 - **Локации и государства**
   - [Архипелаг Огненные Клыки](/locations/fire-fangs)
   - [Вольный порт Илсар](/locations/ilsar)
