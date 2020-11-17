@@ -32,6 +32,7 @@
   - [Плут](/classes/rogue)
   - [Колдун](/classes/warlock)
   - [Монах](/classes/monk)
+  - [Чародей](/classes/sorcerer)
 - **Homebrew**
   - [Предыстории](/homebrew/backstories)
   - [Магия вуду](/homebrew/woodoo)
