@@ -12,7 +12,7 @@
   - [Диархия Тиабер](/locations/tiaber-diarchy)
   - [Княжество Кестамов](/locations/kestamov)
   - [Королевства Триумвирата](/locations/triumvirat)
-  - [Царство Ашрезайия](/locations/ashreziah)
+  - [Царство Ашрезайя](/locations/ashreziah)
 - **Дополнительные расы**
   - [Расы Азуриона](/races/_main)
   - [[ОК] Грунг](/races/grung)
