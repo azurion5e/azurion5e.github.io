@@ -1,6 +1,6 @@
 ## Карта мира
-> _Версия карты: 0.2.8_  
-  TODO: перерисовать карту в Inkarnate, добавить острова Трабхи, архипелаг Огненные Клыки итд.
+> _Версия карты: 0.3.2_  
+  TODO: заполнить "белые пятна"
 
 <p style="text-align: center">
   <img style="height: 620px" src="./_media/locations/world.map.png"/>
