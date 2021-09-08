@@ -22,7 +22,7 @@
   - [Оборотень (Шифтер)](/races/shifter)
   - [Сатир](/races/satyr)
   - [Многоликий](/races/changeling)
-- **Дополнительные подклассы**
+<!-- - **Дополнительные подклассы**
   - [Бард](/classes/bard)
   - [Варвар](/classes/barbarian)
   - [Воин](/classes/fighter)
@@ -33,7 +33,7 @@
   - [Плут](/classes/rogue)
   - [Колдун](/classes/warlock)
   - [Монах](/classes/monk)
-  - [Чародей](/classes/sorcerer)
+  - [Чародей](/classes/sorcerer) -->
 - **Homebrew**
   - [Предыстории](/homebrew/backstories)
   - [Магия вуду](/homebrew/woodoo)
